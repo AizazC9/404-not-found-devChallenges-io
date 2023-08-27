@@ -19,7 +19,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 85vh;
     padding: 0 1rem;
 }
 
@@ -74,6 +74,18 @@
     text-decoration: none;
     width: 216px;
     height: 68px;
+}
+
+.footer{
+    text-align: center;
+    color: #333;
+    font-family: 'Space Mono', monospace;
+    padding: 1rem;
+}
+
+.footer a{
+    color: #333;
+    text-decoration: none;
 }
 
 @media (max-width: 940px) {
